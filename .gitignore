@@ -11,20 +11,10 @@
 *.userprefs
 
 # Build results
-[Dd]ebug/
-[Dd]ebugPublic/
-[Rr]elease/
-[Rr]eleases/
-[Bb]in/
-[Oo]bj/
-[Ll]og/
-[Ll]ogs/
 node_modules
 dist
 dist_electron
 package-lock.json
 
-# Visual Studio 2015 cache/options directory
 .vs/
-
 .vscode/
