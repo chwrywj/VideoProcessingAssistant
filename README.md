@@ -5,7 +5,7 @@ https://github.com/chwrywj/VideoProcessingAssistant/releases
 
 ![](https://github.com/chwrywj/VideoProcessingAssistant/blob/main/screenshot1.png)
 
-## Project setup
+# Project setup
 ```
 npm install
 ```
