@@ -1,17 +1,9 @@
-# VideoFormatConversion
-A video format conversion application.
+# VideoProcessingAssistant
+A free video batch processing software with specific functions such as video batch compression, video cutting, video merging, video batch format conversion, and video batch watermark addition. The interface is beautiful, easy to operate, time-saving, and efficient, and supports multiple languages.
 
-Supports 25 languages including English, French, Spanish, German, Bulgarian, Czech, Danish, Greek, Estonian, Finnish, Hungarian, Italian, Japanese, Korean, Dutch, Polish, Portuguese, Romanian, Russian, Slovenian, Swedish, Thai, Vietnamese, Simplified Chinese, Traditional Chinese, etc.
+https://github.com/chwrywj/VideoProcessingAssistant/releases
 
-Developed using Electron, video processing uses the ffmpeg plugin.
-
-# Releases
-Currently, there are only Windows installation packages available.
-
-https://github.com/chwrywj/VideoFormatConversion/releases
-
-![](https://github.com/chwrywj/VideoFormatConversion/blob/main/screenshot1.png)
-![](https://github.com/chwrywj/VideoFormatConversion/blob/main/screenshot2.png)
+![](https://github.com/chwrywj/VideoProcessingAssistant/blob/main/screenshot1.png)
 
 # Project setup
 ```
@@ -32,4 +24,3 @@ npm run electron:build
 [ffmpeg](https://www.ffmpeg.org/)
 
 [fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg)
-
