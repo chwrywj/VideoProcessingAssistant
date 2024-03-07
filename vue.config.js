@@ -9,7 +9,7 @@ module.exports = defineConfig({
       webSecurity: false,
       builderOptions: {
         productName: `Video Processing Assistant`,
-        appId: 'com.world0101.videoprocessingassistant',
+        appId: 'net.toollist.videoprocessingassistant',
         asar: true,
         linux: {
           target: ['deb'],
